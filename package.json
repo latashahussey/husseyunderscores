@@ -1,0 +1,23 @@
+{
+  "name": "husseyunderscores",
+  "version": "1.0.0",
+  "description": "A sassified underscores-based theme",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/latashahussey/husseyunderscores.git"
+  },
+  "author": "LaTasha Hussey",
+  "bugs": {
+    "url": "https://github.com/latashahussey/husseyunderscores/issues"
+  },
+  "homepage": "https://github.com/latashahussey/husseyunderscores#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
